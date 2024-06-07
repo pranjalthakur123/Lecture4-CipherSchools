@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML tags</title>
+    <style>
+        div {
+            background-color: aqua;
+        }
+        span {
+            background-color: red;
+        }
+    </style>
+</head>
+<body>
+    <!-- 6 level of heading are -->
+    <!-- For multi curser we use Alt+Click -->
+    <h1>Display Webpage</h1>
+    <h2>Display Webpage</h2>
+    <h3>Display Webpage</h3>
+    <h4>Display Webpage</h4>
+    <h5>Display Webpage</h5>
+    <h6>Display Webpage</h6>
+<!-- 
+    Tags in html -->
+    <a href="#">Hello </a>
+    <img src="#" alt="no image">
+    <button>Click ME</button>
+    <p><q>Lorem ipsum dolor sit amet consectetur </q><b>adipisicing elit. Consectetur unde </b>
+       <i> voluptatibus possimus, quis iusto itaque similique eos</i> repudiandae optio voluptates.</p>
+        <!-- unorder list -->
+     <ul>
+        <li>Coffee</li>
+        <li>Tea</li>
+        <li>Milk</li>
+     </ul>   
+
+     <!-- description list <dl>  and description title <dt> -->
+     <dl>
+        <dt>Coffee</dt>
+        <dd>---- Brown in colour ----</dd>
+        <dt>Tea</dt>
+        <dd>---- Red in color ----</dd>
+     </dl>
+
+     <address>
+        Taught to Prajal Thakur <br>
+        Visit to my LinkedIn: <br>
+     </address>
+
+     <p>
+        <abbr title="World Health Organisation">WHO </abbr>is a good organisation.
+     </p>
+
+     <!-- div is an block element contain 100% width of the webpage. -->
+     <div>
+        <p>
+            This is a para.
+        </p>
+     </div>
+
+     <!-- span is in line element contain fix text width. -->
+     <p><span>
+        INDIA
+     </span>
+     </p>
+</body>
+</html>
